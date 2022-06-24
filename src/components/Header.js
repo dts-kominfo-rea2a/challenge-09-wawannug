@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <div className="header">
             <h1>Call a Friend</h1>
-            <h4>your friend contact app</h4>
+            <h4>your friendly contact app</h4>
             <span>***********************************</span>
         </div>
     )
